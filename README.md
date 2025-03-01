@@ -1,6 +1,28 @@
-# portfolio
+# Portfolio
 
 Repository for showcasing personal projects.
+
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+* [Mobile Game Development](#mobile-game-development)
+    + [Demo Video](#demo-video)
+    + [Technology Stack](#technology-stack)
+        - [Programming Languages](#programming-languages)
+        - [Game Framework](#game-framework)
+        - [Rendering & Graphics](#rendering--graphics)
+        - [Game Architecture & Entity Management](#game-architecture--entity-management)
+        - [Performance Monitoring & Telemetry](#performance-monitoring--telemetry)
+        - [Build System & Dependency Management](#build-system--dependency-management)
+        - [Platform Support](#platform-support)
+    + [Design Patterns & Justifications](#design-patterns--justifications)
+        - [1. Entity Component System (ECS)](#1-entity-component-system-ecs)
+        - [2. Event-Driven UI Updates](#2-event-driven-ui-updates)
+        - [3. Factory & Repository Pattern for Game Assets](#3-factory--repository-pattern-for-game-assets)
+        - [4. Universal Registry for Service Management](#4-universal-registry-for-service-management)
+        - [5. Profiling & Performance Optimizations](#5-profiling--performance-optimizations)
+    + [Conclusion](#conclusion)
+
+<!-- TOC end -->
 
 ## Mobile Game Development
 
@@ -81,4 +103,3 @@ Developing a game and engine on top of LibGDX, using own original artwork, with 
 ### Conclusion
 
 This game is built with a focus on performance, maintainability, and scalability. By leveraging an Entity Component System, optimized rendering techniques, and a robust monitoring stack, the game achieves high efficiency while remaining adaptable for future expansion.
-
