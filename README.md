@@ -5,7 +5,7 @@ Repository for showcasing personal projects.
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 * [Mobile Game Development](#mobile-game-development)
-    + [Demo Video](#demo-video)
+    + [Demo Videos](#demo-videos)
     + [Technology Stack](#technology-stack)
         - [Programming Languages](#programming-languages)
         - [Game Framework](#game-framework)
@@ -28,9 +28,10 @@ Repository for showcasing personal projects.
 
 Developing a game and engine on top of LibGDX, using own original artwork, with the intention of submitting to the Google Play Store.
 
-### Demo Video
+### Demo Videos
 
 * [Gameplay Demo](https://www.canva.com/design/DAGgelagUsk/DnFaHVyq1qRj_Rvzj1qJzQ/watch?utm_content=DAGgelagUsk&utm_campaign=celebratory_first_publish&utm_medium=link2&utm_source=editor_celebratory_first_publish)
+* [Metrics Video](https://www.canva.com/design/DAGgfrJDeSU/d-gNBf7jI4RcIsCKAXchjA/watch?utm_content=DAGgfrJDeSU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc20bfd6a4)
 
 ### Technology Stack
 
